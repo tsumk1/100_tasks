@@ -1,4 +1,4 @@
-//Read an integer and determine whether it is even.
+//Read an integer and determine whether it is even. 
 #include <iostream>
 int main (){
 	int a;
