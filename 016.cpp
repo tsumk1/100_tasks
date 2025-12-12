@@ -1,4 +1,4 @@
-//Read two numbers and print whether they are equal.
+//Read two numbers and print whether they are equal. 
 #include <iostream>
 int main () {
 int a, b;
