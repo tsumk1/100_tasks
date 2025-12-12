@@ -1,4 +1,4 @@
-//Read a number and check if it is positive or negative.
+//Read a number and check if it is positive or negative. 
 #include <iostream>
 int main () {
 int n;
