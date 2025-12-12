@@ -1,4 +1,4 @@
-//Read N and print the sum of numbers from 1 to N.
+//Read N and print the sum of numbers from 1 to N. 
 #include <iostream>
 int main(){
 int n;
