@@ -1,4 +1,4 @@
-//Write a program that reads two integers and outputs their sum.
+//Write a program that reads two integers and outputs their sum. 
 #include <iostream>
 
 int main (){
