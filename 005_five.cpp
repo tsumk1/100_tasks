@@ -1,4 +1,4 @@
-//The user enters a number n. Calculate n! (the factorial).
+//The user enters a number n. Calculate n! (the factorial). 
 #include <iostream>
 int main () {
 	int n;
