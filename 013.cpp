@@ -1,4 +1,4 @@
-//Read three numbers and print the largest and the smallest.
+//Read three numbers and print the largest and the smallest. 
 #include <iostream>
 int main () {
 int a, b, c;
