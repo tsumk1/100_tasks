@@ -1,4 +1,4 @@
-//The user enters three numbers. Determine and print the largest of them.
+//The user enters three numbers. Determine and print the largest of them. 
 #include <iostream>
 int main () {
 	int a,b,c;
