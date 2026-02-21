@@ -3,8 +3,9 @@
  int theLarger(int a, int b){
     if(a>b){
         return a;
-    }else{}
-   return b; 
+    }else{
+   return b;
+    } 
  }
  int main (){
     int num1, num2;
