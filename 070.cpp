@@ -1,4 +1,4 @@
-//Read a number (1–7) and print the weekday name. But using arrays.
+//Read a number (1–7) and print the weekday name. But using arrays. 
 #include <iostream>
 #include <string>
 int main(){
